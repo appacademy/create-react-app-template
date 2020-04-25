@@ -1,0 +1,29 @@
+{
+  "bugs": {
+    "url": "https://github.com/appacademy/create-react-app-template/issues"
+  },
+  "description": "A no-frills template from which to create React applications with create-react-app.",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "license": "MIT",
+  "main": "template.json",
+  "name": "@appacademy/cra-template-simple",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appacademy/create-react-app-template"
+  },
+  "version": "1.0.0"
+}
