@@ -13,7 +13,8 @@
   "keywords": [
     "react",
     "create-react-app",
-    "template"
+    "template",
+    "appacademy"
   ],
   "license": "MIT",
   "main": "template.json",
